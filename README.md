@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I'm [Eldon Williams](https://eldonwilliams.com/)
 
-<!--
-**MrTops/MrTops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://komarev.com/ghpvc/?username=MrTops" alt="MrTops" /> [![Gmail Badge](https://img.shields.io/badge/-eldon@eldonwilliams.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eldon@eldonwilliams.com)](mailto:eldon@eldonwilliams.com)
 
-Here are some ideas to get you started:
+## Favorite Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Javascript -- and most web stuff!
+* Typescript -- JS with bonuses 🥰
+* Lua
+* Python
+
+## Favorite Technologies
+
+Here's what I love to put on my application stacks 🥞
+
+* MongoDB
+* React
+* Express.js
+* M-UI (Material UI)
+
+### Stats!
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTops&layout=compact" /> <img src="https://github-readme-stats.vercel.app/api?username=MrTops&show_icons=true" />
+
+*thanks **[Manny](https://github.com/MarikIshtar007/MarikIshtar007)**, I used his README.md for a bit of insparation for mine.*
