@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I'm [Eldon Williams](https://eldonwilliams.com/)
 
-<img src="https://komarev.com/ghpvc/?username=eldonwilliams" alt="eldonwilliams" /> [![Gmail Badge](https://img.shields.io/badge/-eldon@eldonwilliams.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eldon@eldon.zone)](mailto:eldon@eldon.zone)
+<img src="https://komarev.com/ghpvc/?username=eldonwilliams" alt="eldonwilliams" /> [![Gmail Badge](https://img.shields.io/badge/-eldon@eldon.zone-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eldon@eldon.zone)](mailto:eldon@eldon.zone)
 
 ## Favorite Programming Languages
 
