@@ -5,7 +5,7 @@
 ## Favorite Programming Languages
 
 * Javascript -- and most web stuff!
-* Typescript -- JS with bonuses 🥰
+* Typescript
 * Lua
 * Python
 
